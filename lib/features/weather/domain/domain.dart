@@ -1,1 +1,1 @@
-export 'entities/weather.dart';
+export 'entities/weather_entities.dart';
