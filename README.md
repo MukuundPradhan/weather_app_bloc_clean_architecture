@@ -5,7 +5,7 @@ A Flutter-based weather application with clean architecture and modular code org
 ---
 
 ## 📁 Project Structure
-
+```
 lib/
 ├── core/ # Core utilities, constants, error handling
 ├── features/
@@ -15,8 +15,7 @@ lib/
 │ ├── presentation/ # UI-related code
 ├── injection/ # Dependency injection configuration
 main.dart # App entry point
-
-
+```
 ---
 
 ## 📦 Git Commit Message Strategy
